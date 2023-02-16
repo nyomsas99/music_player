@@ -50,7 +50,7 @@ const songs = [
   {
     name: "Ghost",
     author: "Justin Bieber",
-    path: "./assets/songs/Justin Bieber - GHOST.mp3",
+    path: "./assets/songs/Justin Bieber - Ghost.mp3",
   },
   {
     name: "RUNGKAD",
