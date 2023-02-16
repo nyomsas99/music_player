@@ -49,7 +49,7 @@ const songs = [
   },
   {
     name: "Ghost",
-    author: "Justin ieber",
+    author: "Justin Bieber",
     path: "./assets/songs/Justin Bieber - GHOST.mp3",
   },
   {
